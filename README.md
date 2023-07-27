@@ -28,7 +28,7 @@ https://sage-biscochitos-a3fc3a.netlify.app/
 
 📫 How to reach me: 
 
-msaravanamuthu21@gmail.com ///
-Linkedin profile...
-https://www.linkedin.com/in/saravanamuthu13/
+- msaravanamuthu21@gmail.com ///
+### Linkedin profile...
+- https://www.linkedin.com/in/saravanamuthu13/
 
