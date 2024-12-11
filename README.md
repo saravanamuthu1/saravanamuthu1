@@ -21,9 +21,6 @@ Highly skilled Python Django developer with a passion for creating robust and sc
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saravanamuthu1)](https://github.com/saravanamuthu1/github-readme-stats)
 
-### webistes to look for:
-https://sweet-shortbread-91075c.netlify.app/ <br>
-https://sage-biscochitos-a3fc3a.netlify.app/
 
 
 📫 How to reach me: 
